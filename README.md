@@ -1,0 +1,1 @@
+An application made in Android Studio using Java that takes the title and message from input boxes and pushes them out as either a high priority or low priority notification depending on if you push the first or second button, respectively.
